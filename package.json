@@ -1,0 +1,23 @@
+{
+  "name": "TDD",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "lodash": "^4.8.2"
+  },
+  "devDependencies": {
+    "rewire": "^2.5.1",
+    "sinon": "^1.17.3",
+    "uuid": "^2.0.1"
+  },
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
